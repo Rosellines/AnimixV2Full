@@ -1,3 +1,4 @@
+
 const fs = require('fs');
 const axios = require('axios');
 const { HttpsProxyAgent } = require('https-proxy-agent');
@@ -64,3 +65,4 @@ class Animix {
             }
         });
     }
+}
