@@ -1,9 +1,4 @@
 # Animix Bot
-![image](https://github.com/user-attachments/assets/3d82b1e3-b717-47c3-aa16-0c7c86c69d3e)
-
-
-
-
 
 This script automates various tasks for the Animix
 
@@ -20,13 +15,14 @@ This script automates various tasks for the Animix
 
 1. Install the required dependencies:
 ```bash
+git clone https://github.com/Rosellines/AnimixV2Full.git
+cd AnimixV2Full
 npm install
 ```
-2. Run the script:
+fill data.txt
+fill proxy.txt if u want use proxy
+4. Run the script:
 ```bash
 node animix.js or node animix-noproxy.js (if you don't use a proxy)
 ```
-# Contact
-- Telegram: <https://t.me/tuineonganh>
-- Group: <https://t.me/dredchat>
 
